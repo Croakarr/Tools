@@ -1,0 +1,21 @@
+{
+  "name": "@croakerr/create-croakerr-plugin",
+  "version": "1.0.4",
+  "description": "",
+  "main": "dist/index.js",
+  "bin": {
+    "create-croakerr-plugin": "dist/index.js"
+  },
+  "scripts": {
+    "test": "tsc && node dist/index.js"
+  },
+  "author": "Croakerr",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "recursive-copy": "^2.0.14"
+  }
+}
