@@ -1,10 +1,10 @@
 {
-  "name": "@croakerr/bundler",
+  "name": "@croakarr/bundler",
   "version": "1.0.0",
   "description": "",
   "main": "bundle.js",
   "bin": {
-    "bundlerr": "bundle.js"
+    "bundler": "bundle.js"
   },
   "scripts": {
     "test": "node bundle.js"
